@@ -23,3 +23,5 @@ Data Modeling & Visualization
 Use Case
 
 The dashboard enables stakeholders to monitor performance trends, identify revenue drivers, and compare hotel performance across locations and time periods
+
+https://github.com/sairam9154/Hospitality-Dashboard/blob/main/Screenshot%202026-01-28%20203850.png
