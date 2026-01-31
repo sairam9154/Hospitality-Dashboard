@@ -24,4 +24,5 @@ Use Case
 
 The dashboard enables stakeholders to monitor performance trends, identify revenue drivers, and compare hotel performance across locations and time periods
 
-https://github.com/sairam9154/Hospitality-Dashboard/blob/main/Screenshot%202026-01-28%20203850.png
+<img width="1365" height="771" alt="Screenshot 2026-01-28 203850" src="https://github.com/user-attachments/assets/c18537a6-e6d2-47e5-b1ed-807e88a410a2" />
+
